@@ -1,0 +1,21 @@
+{
+  "name": "parcel-plugin-bundle-log",
+  "version": "0.1.0",
+  "description": "Log the Parcel `bundle` object to your console.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianzelip/parcel-plugin-bundle-log.git"
+  },
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "console-log"
+  ],
+  "author": "Brian Zelip <bzelip@gmail.com> (https://zelip.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianzelip/parcel-plugin-bundle-log/issues"
+  },
+  "homepage": "https://github.com/brianzelip/parcel-plugin-bundle-log#readme"
+}
