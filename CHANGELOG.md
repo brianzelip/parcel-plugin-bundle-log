@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2019-12-14
+
+- branch: master
+- description: adjust the whitespace in the logged output
+
+### Updated
+
+- index.js: add initial new line, change double new lines to single new lines
+
 ## [0.1.0] - 2019-12-04
 
 - branch: master
