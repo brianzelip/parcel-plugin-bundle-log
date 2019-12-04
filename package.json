@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-bundle-log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Log the Parcel `bundle` object to your console.",
   "main": "index.js",
   "repository": {
